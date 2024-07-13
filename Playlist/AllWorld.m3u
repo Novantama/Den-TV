@@ -3786,15 +3786,15 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 # --- Premier League ---
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="COPA AMERICA",Astro SuperSport 1
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="PL",Astro SuperSport 1
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="COPA AMERICA",Astro SuperSport 2
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="PL",Astro SuperSport 2
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="COPA AMERICA",Astro SuperSport 3
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="PL",Astro SuperSport 3
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="COPA AMERICA",Astro SuperSport 4
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="PL",Astro SuperSport 4
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="COPA AMERICA",Astro SuperSport 5
+#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="PL",Astro SuperSport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.webhd.ru/lb/premium43/index.m3u8|Origin=https://weblivehdplay.ru/
