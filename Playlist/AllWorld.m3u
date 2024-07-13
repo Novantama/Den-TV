@@ -3764,6 +3764,24 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="RT.ru" tvg-logo="https://iili.io/JhksYZb.png" group-title="News",RT (80.0s)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
+# --- Premier League ---
+#EXTINF:-1 group-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/indizone/2023/03/22/Z8s4klB/alhamdulillah-wasit-diizinkan-hentikan-laga-premier-league-di-waktu-buka-puasa61.jpg",Premier League
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport 1 HD.my" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="Premier League",Astro SuperSport 1
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722 (6.1s)
+
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2 HD.my" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="Premier League",Astro SuperSport 2
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721 (7.3s)
+
+#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-id="Astro SuperSport 3 HD.my" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="Premier League",Astro SuperSport 3 (8.3s)
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
+
+#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-id="Astro SuperSport 4 HD.my" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="Premier League",Astro SuperSport 4 (5.1s)
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
+
+#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Premier League" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="Premier League",Astro SuperSport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium43/index.m3u8|Origin=https://weblivehdplay.ru/
 
 # --- Regional ---
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JbtnA1s.png" group-title="Regional",Semarang TV (0.3s)
