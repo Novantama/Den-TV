@@ -4738,6 +4738,9 @@ https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
 
+#EXTINF:-1 tvg-name="" tvg-id="WorldPokerTour.it" tvg-logo="https://i.imgur.com/e3yJ9QN.png" group-title="Sports",World Poker Tour Italy (720p) (9.3s)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/7GJnHMX/adsport1.png" group-title="Sports",ABU DHABI Sports 1 🇦🇪 (8.8s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
