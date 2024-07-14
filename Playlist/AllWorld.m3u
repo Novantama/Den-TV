@@ -3786,7 +3786,7 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 # --- Premier League ---
-#EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="PL" group-logo="https://cdn.mos.cms.futurecdn.net/YfcLFQhjH3dBhA2tGqs8Qf-970-80.jpg",Astro SuperSport 1
+#EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="PL" group-logo="https://logowik.com/content/uploads/images/premier-league3330.jpg",Astro SuperSport 1
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
 #EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="PL",Astro SuperSport 2
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721
