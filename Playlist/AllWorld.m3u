@@ -376,7 +376,7 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 # ---FIFA WC2026 ---
 
 #EXTINF:-1 group-title="FIFA WC2026" tvg-name="" tvg-id="" tvg-logo="" group-logo="https://statik.tempo.co/data/2023/05/18/id_1205135/1205135_720.jpg",
-#EXTINF:-1 group-title="EURO2024" tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",Sportstars 3
+#EXTINF:-1 group-title=""FIFA WC2026" tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",Sportstars 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
