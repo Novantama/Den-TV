@@ -31,12 +31,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
 
-# --- COPA AMERICA ---
-
-#EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-name="COPA AMERICA" group-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/275px-2024_Copa_Am%C3%A9rica_logo.svg.png" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="COPA AMERICA",Astro SuperSport 4
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
-
-
 # --- Dens TV ---
 #EXTINF:-1 tvg-name="" tvg-id="3" tvg-logo="https://www.dens.tv/images/channel-logo/3.jpg" group-title="Dens TV",Live Streaming 1 (0.7s)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
