@@ -3792,12 +3792,48 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 # --- Premier League ---
 #EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="PL" group-logo="https://image.pngaaa.com/945/5672945-middle.png",Astro SuperSport 1
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
-#EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="PL",Astro SuperSport 2
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721
-#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="PL",Astro SuperSport 3
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
-#EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-name="COPA AMERICA" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="PL",Astro SuperSport 4
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
+#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="ASTRO: SS 1" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="PL",ASTRO: SS 1
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103623
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="ASTRO: SS 2" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="PL",ASTRO: SS 2
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103624
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="ASTRO: SS 3" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="PL",ASTRO: SS 3
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103625
+#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="ASTRO: SS 4" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="PL",ASTRO: SS 4
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103626
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO: SS 5" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="PL",ASTRO: SS 5
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110275
+#EXTINF:-1 tvg-id="ACTION" tvg-name="SuperSport Action" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="PL",SuperSport Action
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70938
+#EXTINF:-1 tvg-id="BLITZ" tvg-name="SuperSport Blitz" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-blitz-za.png" group-title="PL",SuperSport Blitz
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70932
+#EXTINF:-1 tvg-id="CRICKET" tvg-name="SuperSport Cricket" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="PL",SuperSport Cricket
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102200
+#EXTINF:-1 tvg-id="FOOTBALL" tvg-name="SuperSport Football" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-football-za.png" group-title="PL",SuperSport Football
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70936
+#EXTINF:-1 tvg-id="GOLF" tvg-name="SuperSport Golf" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-golf-za.png" group-title="PL",SuperSport Golf
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70939
+#EXTINF:-1 tvg-id="GRANDSTAND" tvg-name="SuperSport GrandStand" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-grandstand-za.png" group-title="PL",SuperSport GrandStand
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102201
+#EXTINF:-1 tvg-id="LA LIGA" tvg-name="SuperSport La Liga" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-la-liga-za.png" group-title="PL",SuperSport La Liga
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70937
+#EXTINF:-1 tvg-id="MOTORSPORT" tvg-name="SuperSport Motorsport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-motorsport-za.png" group-title="PL",SuperSport Motorsport
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102202
+#EXTINF:-1 tvg-id="EPL" tvg-name="SuperSport Premier League" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-premier-league-za.png" group-title="PL",SuperSport Premier League
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70934
+#EXTINF:-1 tvg-id="PSL" tvg-name="SuperSport PSL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-psl-za.png" group-title="PL",SuperSport PSL
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70933
+#EXTINF:-1 tvg-id="RUGBY" tvg-name="SuperSport Rugby" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-rugby-za.png" group-title="PL",SuperSport Rugby
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102199
+#EXTINF:-1 tvg-id="TENNIS" tvg-name="SuperSport Tennis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-tennis-za.png" group-title="PL",SuperSport Tennis
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70935
+#EXTINF:-1 tvg-id="VARIETY 1" tvg-name="SuperSport Variety 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-1-za.png" group-title="PL",SuperSport Variety 1
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70928
+#EXTINF:-1 tvg-id="VARIETY 2" tvg-name="SuperSport Variety 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-2-za.png" group-title="PL",SuperSport Variety 2
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70929
+#EXTINF:-1 tvg-id="VARIETY 3" tvg-name="SuperSport Variety 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-3-za.png" group-title="PL",SuperSport Variety 3
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70930
+#EXTINF:-1 tvg-id="VARIETY 4" tvg-name="SuperSport Variety 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-4-za.png" group-title="PL",SuperSport Variety 4
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70931
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="PL",TH:True Premiere Football 1 (31.6s)
 http://filex.tv:8080/paramjeetsingh/002818/302733
