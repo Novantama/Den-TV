@@ -3834,6 +3834,16 @@ http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70930
 #EXTINF:-1 tvg-id="VARIETY 4" tvg-name="SuperSport Variety 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-4-za.png" group-title="PL",SuperSport Variety 4
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70931
 
+#EXTINF:-1 tvg-name="" tvg-id="Arena Premium 1.ba" tvg-logo="https://i.ibb.co.com/LkhJQrR/a1p.png" group-title="PL",ARENA SPORT PREMIUM 1 🇧🇦 (42.7s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/qJFQ5GQ/arena.png" group-title="PL",ARENA SPORT PL 🇧🇦 (59.0s)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 # --- Regional ---
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JbtnA1s.png" group-title="Regional",Semarang TV (0.3s)
