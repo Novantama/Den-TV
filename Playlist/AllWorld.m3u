@@ -1,43 +1,23 @@
 #EXTM3U billed-msg="Novantama TV` PLAYLIST GRATIS 🖖 | Jangan lupa reload secara berkala." url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/unitedstatespremium2.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/sportspremium1.xml,https://www.bevy.be/bevyfiles/sportspremium2.xml,https://www.bevy.be/bevyfiles/sportspremium3.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" refresh="23"
 
-# --- Olimpiade 2024 ---
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png"
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Olimpiade 2024", INDOSIAR 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Olimpiade 2024", MOJI 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="Olimpiade 2024", SCTV 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="Olimpiade 2024", MENTARI TV 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Olimpiade 2024", INDOSIAR 2
-http://iptvtree.net:8080/c4596f70/c3848d92/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Olimpiade 2024", MOJI 2
-http://iptvtree.net:8080/c4596f70/c3848d92/298550
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="Olimpiade 2024", SCTV 2
-http://iptvtree.net:8080/c4596f70/c3848d92/162141
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="Olimpiade 2024", MENTARI TV 2
-
-
-# --- AFF U19 ---
+# --- EMTEK Group ---
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/AFF_U19_Championship_2022.png"
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="AFF U19", INDOSIAR 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEK Group", INDOSIAR 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="AFF U19", MOJI 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEK Group", MOJI 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="AFF U19", SCTV 1
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEK Group", SCTV 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="AFF U19", MENTARI TV 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="EMTEK Group", MENTARI TV 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="AFF U19", INDOSIAR 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEK Group", INDOSIAR 2
 http://iptvtree.net:8080/c4596f70/c3848d92/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="AFF U19", MOJI 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEK Group", MOJI 2
 http://iptvtree.net:8080/c4596f70/c3848d92/298550
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="AFF U19", SCTV 2
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEK Group", SCTV 2
 http://iptvtree.net:8080/c4596f70/c3848d92/162141
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="AFF U19", MENTARI TV 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="EMTEK Group", MENTARI TV 2
 
 # --- Brunei ---
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png" group-title="Brunei",RTB Pelangi (0.9s)
@@ -3791,62 +3771,74 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 # --- Premier League ---
 
-#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="ASTRO: SS 1" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="PL" group-logo="https://image.pngaaa.com/945/5672945-middle.png",ASTRO: SS 1
+#EXTINF:-1 group-title="PL" tvg-id="dazn1_spain" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg" group-logo="https://image.pngaaa.com/945/5672945-middle.png",🇪🇸 DAZN 1 Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 group-title="PL" tvg-id="dazn2_spain" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg",🇪🇸 DAZN 2 Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 group-title="PL" tvg-id="dazn3_spain" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg",🇪🇸 DAZN 3 Spain
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 tvg-id="Setanta HD" tvg-logo="https://imgcdn.solopos.com/@space/_large/2016/02/4zpFnhsS-Liga-Premier-Inggris-Standard.co_.uk_.jpg" group-title="PL",Setanta HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta22_HD_HVC/GO3_LIVE_DASH_HVC/Setanta22_HD_HVC.mpd
+
+#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="ASTRO: SS 1" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="PL",ASTRO: SS 1
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103623
+
 #EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="ASTRO: SS 2" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="PL",ASTRO: SS 2
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103624
+
 #EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="ASTRO: SS 3" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="PL",ASTRO: SS 3
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103625
+
 #EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="ASTRO: SS 4" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="PL",ASTRO: SS 4
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103626
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO: SS 5" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="PL",ASTRO: SS 5
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110275
-#EXTINF:-1 tvg-id="ACTION" tvg-name="SuperSport Action" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="PL",SuperSport Action
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70938
-#EXTINF:-1 tvg-id="BLITZ" tvg-name="SuperSport Blitz" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-blitz-za.png" group-title="PL",SuperSport Blitz
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70932
-#EXTINF:-1 tvg-id="CRICKET" tvg-name="SuperSport Cricket" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="PL",SuperSport Cricket
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102200
-#EXTINF:-1 tvg-id="FOOTBALL" tvg-name="SuperSport Football" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-football-za.png" group-title="PL",SuperSport Football
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70936
-#EXTINF:-1 tvg-id="GOLF" tvg-name="SuperSport Golf" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-golf-za.png" group-title="PL",SuperSport Golf
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70939
-#EXTINF:-1 tvg-id="GRANDSTAND" tvg-name="SuperSport GrandStand" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-grandstand-za.png" group-title="PL",SuperSport GrandStand
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102201
-#EXTINF:-1 tvg-id="LA LIGA" tvg-name="SuperSport La Liga" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-la-liga-za.png" group-title="PL",SuperSport La Liga
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70937
-#EXTINF:-1 tvg-id="MOTORSPORT" tvg-name="SuperSport Motorsport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-motorsport-za.png" group-title="PL",SuperSport Motorsport
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102202
+
 #EXTINF:-1 tvg-id="EPL" tvg-name="SuperSport Premier League" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-premier-league-za.png" group-title="PL",SuperSport Premier League
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70934
-#EXTINF:-1 tvg-id="PSL" tvg-name="SuperSport PSL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-psl-za.png" group-title="PL",SuperSport PSL
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70933
-#EXTINF:-1 tvg-id="RUGBY" tvg-name="SuperSport Rugby" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-rugby-za.png" group-title="PL",SuperSport Rugby
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102199
-#EXTINF:-1 tvg-id="TENNIS" tvg-name="SuperSport Tennis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-tennis-za.png" group-title="PL",SuperSport Tennis
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70935
-#EXTINF:-1 tvg-id="VARIETY 1" tvg-name="SuperSport Variety 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-1-za.png" group-title="PL",SuperSport Variety 1
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70928
-#EXTINF:-1 tvg-id="VARIETY 2" tvg-name="SuperSport Variety 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-2-za.png" group-title="PL",SuperSport Variety 2
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70929
-#EXTINF:-1 tvg-id="VARIETY 3" tvg-name="SuperSport Variety 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-3-za.png" group-title="PL",SuperSport Variety 3
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70930
-#EXTINF:-1 tvg-id="VARIETY 4" tvg-name="SuperSport Variety 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-4-za.png" group-title="PL",SuperSport Variety 4
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70931
-
 #EXTINF:-1 tvg-name="" tvg-id="Arena Premium 1.ba" tvg-logo="https://i.ibb.co.com/LkhJQrR/a1p.png" group-title="PL",ARENA SPORT PREMIUM 1 🇧🇦 (42.7s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
+#EXTINF:-1 tvg-name="" tvg-id="Arena Premium 2.ba" tvg-logo="https://i.ibb.co.com/HKHVbhz/a2p.png" group-title="Sports",ARENA SPORT PREMIUM 2 🇧🇦 (81.8s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="Arena Premium 3.ba" tvg-logo="https://i.ibb.co.com/dcN9dPL/a3p.png" group-title="Sports,PL",ARENA SPORT PREMIUM 3 🇧🇦 (61.8s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/qJFQ5GQ/arena.png" group-title="PL",ARENA SPORT PL 🇧🇦 (59.0s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Bein 1" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="Sports",beIN 1 (4.9s)
+#EXTINF:-1 tvg-name="" tvg-id="Bein 1" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="PL",beIN 1 (4.9s)
 http://iptvtree.net:8080/F14995/a84c0963/100
+
+
 
 # --- Regional ---
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JbtnA1s.png" group-title="Regional",Semarang TV (0.3s)
@@ -5528,7 +5520,7 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Arena Premium 2.ba" tvg-logo="https://i.ibb.co.com/HKHVbhz/a2p.png" group-title="Sports,PL",ARENA SPORT PREMIUM 2 🇧🇦 (81.8s)
+#EXTINF:-1 tvg-name="" tvg-id="Arena Premium 2.ba" tvg-logo="https://i.ibb.co.com/HKHVbhz/a2p.png" group-title="Sports",ARENA SPORT PREMIUM 2 🇧🇦 (81.8s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
