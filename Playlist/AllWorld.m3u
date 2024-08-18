@@ -3824,7 +3824,7 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Arena Premium 3.ba" tvg-logo="https://i.ibb.co.com/dcN9dPL/a3p.png" group-title="Sports,PL",ARENA SPORT PREMIUM 3 🇧🇦 (61.8s)
+#EXTINF:-1 tvg-name="" tvg-id="Arena Premium 3.ba" tvg-logo="https://i.ibb.co.com/dcN9dPL/a3p.png" group-title="Sports",ARENA SPORT PREMIUM 3 🇧🇦 (61.8s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -5482,7 +5482,7 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://github.com/eepunx/logo/raw/main/F1.png" group-title="Sports",DAZN F1 (61.2s)
 http://iptvtree.net:8080/F14995/a84c0963/1672
 
-#EXTINF:-1 tvg-name="" tvg-id="Arena Premium 3.ba" tvg-logo="https://i.ibb.co.com/dcN9dPL/a3p.png" group-title="Sports,PL",ARENA SPORT PREMIUM 3 🇧🇦 (61.8s)
+#EXTINF:-1 tvg-name="" tvg-id="Arena Premium 3.ba" tvg-logo="https://i.ibb.co.com/dcN9dPL/a3p.png" group-title="Sports",ARENA SPORT PREMIUM 3 🇧🇦 (61.8s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
