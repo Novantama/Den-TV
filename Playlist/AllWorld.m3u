@@ -241,7 +241,6 @@ https://webhdrunns.mizhls.ru/lb/premium830/index.m3u8|referer=https://lewblivehd
 
 
 # --- EMTEK Group ---
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/AFF_U19_Championship_2022.png"
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEK Group", INDOSIAR 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEK Group", MOJI 1
@@ -250,7 +249,6 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="EMTEK Group", MENTARI TV 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
-
 
 #EXTINF:-1 group-title="EMTEK Group" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR Indihome
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
@@ -645,14 +643,6 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 #EXTINF:-1 group-title="FIFA WC2026" " tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="FIFA WC2026" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1 HD
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 # --- Entertainment ---
 
