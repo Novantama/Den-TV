@@ -1,8 +1,6 @@
 #EXTM3U billed-msg="Novantama TV` PLAYLIST GRATIS 🖖 | Jangan lupa reload secara berkala." url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/unitedstatespremium2.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/sportspremium1.xml,https://www.bevy.be/bevyfiles/sportspremium2.xml,https://www.bevy.be/bevyfiles/sportspremium3.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" refresh="23"
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> BEIN SPORT
-//========================================================================
+# --- BeIN Sport ---
 
 #EXTINF:-1 tvg-name="beIN Sports MENA English 1" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="BeIN Sport",beIN Sports MENA English 1
 https://webhdrunns.mizhls.ru/lb/premium61/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -71,12 +69,15 @@ https://webhdrunns.mizhls.ru/lb/premium492/index.m3u8|referer=https://lewblivehd
 #EXTINF:-1 tvg-name="beIN SPORTS Australia 3" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="BeIN Sport",beIN SPORTS Australia 3
 https://webhdrunns.mizhls.ru/lb/premium493/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
+# --- Timnas Indonesia ---
 
+#EXTINF:-1 group-title="Timnas Indonesia" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/2024_Indonesia_Football_National_Team_Badge.png" group-title="Timnas Indonesia",RCTI V+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> DAZN SPORT
-//========================================================================
+# --- Dazn Sport ---
 
 #EXTINF:-1 tvg-name="DAZN 1 Bar DE" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="DAZN Sport",DAZN 1 Bar DE
 https://webhdrunns.mizhls.ru/lb/premium426/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -102,9 +103,7 @@ https://webhdrunns.mizhls.ru/lb/premium538/index.m3u8|referer=https://lewblivehd
 https://webhdrunns.mizhls.ru/lb/premium43/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> ELEVEN SPORT
-//========================================================================
+# --- Eleven Sport ---
 
 #EXTINF:-1 tvg-id="eleven.sports.1.pl" tvg-name="PL172:Eleven Sports 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL172ElevenSports1HD.png" group-title="Eleven Sport",PL:Eleven Sports 1 FHD 
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/33360.ts
@@ -129,9 +128,7 @@ https://webhdrunns.mizhls.ru/lb/premium459/index.m3u8|referer=https://lewblivehd
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/29368.ts
 
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> SKY SPORT
-//========================================================================
+# --- Sky Sport ---
 
 #EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Sport",Sky Sports Football UK
 https://webhdrunns.mizhls.ru/lb/premium35/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -202,10 +199,7 @@ https://webhdrunns.mizhls.ru/lb/premium596/index.m3u8|referer=https://lewblivehd
 #EXTINF:-1 tvg-name="Sky Sport Select NZ" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Sport",Sky Sport Select NZ
 https://webhdrunns.mizhls.ru/lb/premium587/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> FOX SPORT
-//========================================================================
+# --- Fox Sport ---
 
 #EXTINF:-1 tvg-name="Fox Sports 1 USA" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Fox Sport",Fox Sports 1 USA
 https://webhdrunns.mizhls.ru/lb/premium39/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
