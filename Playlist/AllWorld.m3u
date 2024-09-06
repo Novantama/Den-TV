@@ -82,20 +82,6 @@ https://webhdrunns.mizhls.ru/lb/premium492/index.m3u8|referer=https://lewblivehd
 #EXTINF:-1 tvg-name="beIN SPORTS Australia 3" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="BeIN Sport",beIN SPORTS Australia 3
 https://webhdrunns.mizhls.ru/lb/premium493/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-# --- Timnas Indonesia ---
-
-#EXTINF:-1 group-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/07/2023/09/30/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg",KUALIFIKASI PIALA DUNIA
-
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="KUALIFIKASI PIALA DUNIA",MNC Sports (Sportstars)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="KUALIFIKASI PIALA DUNIA",MNC Sports 2 (Sportstars 2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
-
 # --- Dazn Sport ---
 
 #EXTINF:-1 tvg-name="DAZN 1 Bar DE" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="DAZN Sport",DAZN 1 Bar DE
