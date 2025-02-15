@@ -7551,100 +7551,100 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 # --- PL ---
 
-#EXTINF:-1 tvg-name="beIN Sports MENA 1" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-logo="https://image.pngaaa.com/945/5672945-middle.png" group-title="PL",beIN Sports MENA 1
+#EXTINF:-1 tvg-name="beIN Sports MENA 1" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-logo="https://image.pngaaa.com/945/5672945-middle.png" group-title="LIGA INGGRIS",beIN Sports MENA 1
 https://webhdrunns.mizhls.ru/lb/premium91/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="beIN Sports MENA 2" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="PL",beIN Sports MENA 2
+#EXTINF:-1 tvg-name="beIN Sports MENA 2" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="LIGA INGGRIS",beIN Sports MENA 2
 https://webhdrunns.mizhls.ru/lb/premium92/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="beIN Sports MENA 3" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="PL",beIN Sports MENA 3
+#EXTINF:-1 tvg-name="beIN Sports MENA 3" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="LIGA INGGRIS",beIN Sports MENA 3
 https://webhdrunns.mizhls.ru/lb/premium93/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.imgur.com/6DQ2FA0.jpeg" group-title="PL",Sky Sports Premier League
+#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.imgur.com/6DQ2FA0.jpeg" group-title="LIGA INGGRIS",Sky Sports Premier League
 https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 group-title="PL" tvg-id="dazn1_spain" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg" group-logo="https://image.pngaaa.com/945/5672945-middle.png",🇪🇸 DAZN 1 Spain
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="dazn1_spain" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg" group-logo="https://image.pngaaa.com/945/5672945-middle.png",🇪🇸 DAZN 1 Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1 group-title="PL" tvg-id="dazn2_spain" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg",🇪🇸 DAZN 2 Spain
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="dazn2_spain" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg",🇪🇸 DAZN 2 Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1 group-title="PL" tvg-id="dazn3_spain" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg",🇪🇸 DAZN 3 Spain
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="dazn3_spain" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg",🇪🇸 DAZN 3 Spain
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
 
-#EXTINF:-1 tvg-id="Setanta HD" tvg-logo="https://imgcdn.solopos.com/@space/_large/2016/02/4zpFnhsS-Liga-Premier-Inggris-Standard.co_.uk_.jpg" group-title="PL",Setanta HD
+#EXTINF:-1 tvg-id="Setanta HD" tvg-logo="https://imgcdn.solopos.com/@space/_large/2016/02/4zpFnhsS-Liga-Premier-Inggris-Standard.co_.uk_.jpg" group-title="LIGA INGGRIS",Setanta HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta22_HD_HVC/GO3_LIVE_DASH_HVC/Setanta22_HD_HVC.mpd
 
-#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="ASTRO: SS 1" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="PL",ASTRO: SS 1
+#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="ASTRO: SS 1" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="LIGA INGGRIS",ASTRO: SS 1
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103623
 
-#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="ASTRO: SS 2" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="PL",ASTRO: SS 2
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="ASTRO: SS 2" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="LIGA INGGRIS",ASTRO: SS 2
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103624
 
-#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="ASTRO: SS 3" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="PL",ASTRO: SS 3
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="ASTRO: SS 3" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="LIGA INGGRIS",ASTRO: SS 3
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103625
 
-#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="ASTRO: SS 4" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="PL",ASTRO: SS 4
+#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="ASTRO: SS 4" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="LIGA INGGRIS",ASTRO: SS 4
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103626
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO: SS 5" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="PL",ASTRO: SS 5
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO: SS 5" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="LIGA INGGRIS",ASTRO: SS 5
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110275
 
-#EXTINF:-1 tvg-id="EPL" tvg-name="SuperSport Premier League" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-premier-league-za.png" group-title="PL",SuperSport Premier League
+#EXTINF:-1 tvg-id="EPL" tvg-name="SuperSport Premier League" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-premier-league-za.png" group-title="LIGA INGGRIS",SuperSport Premier League
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70934
-#EXTINF:-1 tvg-name="" tvg-id="Arena Premium 1.ba" tvg-logo="https://i.ibb.co.com/LkhJQrR/a1p.png" group-title="PL",ARENA SPORT PREMIUM 1 🇧🇦 (42.7s)
+#EXTINF:-1 tvg-name="" tvg-id="Arena Premium 1.ba" tvg-logo="https://i.ibb.co.com/LkhJQrR/a1p.png" group-title="LIGA INGGRIS",ARENA SPORT PREMIUM 1 🇧🇦 (42.7s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Arena Premium 2.ba" tvg-logo="https://i.ibb.co.com/HKHVbhz/a2p.png" group-title="PL",ARENA SPORT PREMIUM 2 🇧🇦 (81.8s)
+#EXTINF:-1 tvg-name="" tvg-id="Arena Premium 2.ba" tvg-logo="https://i.ibb.co.com/HKHVbhz/a2p.png" group-title="LIGA INGGRIS",ARENA SPORT PREMIUM 2 🇧🇦 (81.8s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Arena Premium 3.ba" tvg-logo="https://i.ibb.co.com/dcN9dPL/a3p.png" group-title="PL",ARENA SPORT PREMIUM 3 🇧🇦 (61.8s)
+#EXTINF:-1 tvg-name="" tvg-id="Arena Premium 3.ba" tvg-logo="https://i.ibb.co.com/dcN9dPL/a3p.png" group-title="LIGA INGGRIS",ARENA SPORT PREMIUM 3 🇧🇦 (61.8s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/qJFQ5GQ/arena.png" group-title="PL",ARENA SPORT PL 🇧🇦 (59.0s)
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/qJFQ5GQ/arena.png" group-title="LIGA INGGRIS",ARENA SPORT PL 🇧🇦 (59.0s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Bein 1" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="PL",beIN 1 (4.9s)
+#EXTINF:-1 tvg-name="" tvg-id="Bein 1" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="LIGA INGGRIS",beIN 1 (4.9s)
 http://iptvtree.net:8080/F14995/a84c0963/100
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/q7tbRRh/Desain-tanpa-judul-57-modified.png" group-title="PL",Premier Football 1
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/q7tbRRh/Desain-tanpa-judul-57-modified.png" group-title="LIGA INGGRIS",Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/HP4Xnwk/Desain-tanpa-judul-58-modified.png" group-title="PL",Premier Football 2
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/HP4Xnwk/Desain-tanpa-judul-58-modified.png" group-title="LIGA INGGRIS",Premier Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/xLq8sst/Desain-tanpa-judul-60-modified.png" group-title="PL",Premier Football 3
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/xLq8sst/Desain-tanpa-judul-60-modified.png" group-title="LIGA INGGRIS",Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/Xt38mRL/Desain-tanpa-judul-59-modified.png" group-title="PL",Premier Football 4
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/Xt38mRL/Desain-tanpa-judul-59-modified.png" group-title="LIGA INGGRIS",Premier Football 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/f216tTj/Desain-tanpa-judul-61-modified.png" group-title="PL",Premier Football 5
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/f216tTj/Desain-tanpa-judul-61-modified.png" group-title="LIGA INGGRIS",Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
